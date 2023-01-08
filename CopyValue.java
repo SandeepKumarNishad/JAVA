@@ -1,4 +1,4 @@
-//Copying values without constructor
+/*//Copying values without constructor
 
 class CopyValue{
     
@@ -35,4 +35,11 @@ class CopyValue{
            System.out.println("Second student ");
            student2.display();
     }
-}
+}*/
+
+
+
+
+
+
+
